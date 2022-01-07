@@ -1,4 +1,2 @@
 #!/usr/bin/env bash
-set -e
-go vet .\server\
-done
+go vet D:\Rockefeller\Projects\mui\server\
